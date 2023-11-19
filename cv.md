@@ -24,7 +24,7 @@ Georgian Technical University[https://gtu.ge/], Tbilisi, Georgia
     - React
     - Git & Github
 - **Soft Skills:** Communication, teamwork, problem-solving, etc.
-- **Communication:** Effectively convey ideas and information through clear and concise communication. Collaborate with team members to ensure a shared understanding of project goals and tasks.
+  - **Communication:** Effectively convey ideas and information through clear and concise communication. Collaborate with team members to ensure a shared understanding of project goals and tasks.
   - **Teamwork:** Work collaboratively with diverse teams, valuing and respecting different perspectives. Contribute to a positive team environment and support colleagues in achieving common objectives.
   - **Problem-Solving:** Analyze challenges, identify root causes, and develop innovative solutions. Demonstrate adaptability and resourcefulness when faced with obstacles.
   - **Time Management:** Efficiently prioritize tasks and manage time to meet deadlines. Maintain a high level of productivity and organization in fast-paced work environments.
@@ -34,14 +34,14 @@ Georgian Technical University[https://gtu.ge/], Tbilisi, Georgia
 
 
 ## Projects
-### [cv-pp] (https://github.com/ananotopuria/cv-app)
+### [cv-pp](https://github.com/ananotopuria/cv-app)
 
 - CV app is a web application built using React and variety of essential libraries and tools to facilitate state management, form handling, routing and other common web development tasks.
 
 - The core purpose of "cv-app" is to enable users to create, edit and format their resumes easily. User can input their personal information, work, experience, education, skills and other relevant information in a structured format.
 
 
-### [Tourist Landing Page] (https://fancy-trifle-af851a.netlify.app/)
+### [Tourist Landing Page](https://fancy-trifle-af851a.netlify.app/)
 
 - Developed an engaging and responsive landing page for a tourism and travel website. The page showcases stunning visuals, interactive elements, and relevant information to attract potential customers. Implemented various features, including sliders, countdowns, captivating animations, and seamless form validation, enhancing the overall user experience.
 - Served as the lead front-end developer responsible for designing and implementing the user interface. Collaborated closely with the design team to bring their vision to life. Utilized Sass and JavaScript to create dynamic and visually appealing components, ensuring the website aligns with the brand's aesthetics and user expectations.
